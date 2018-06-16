@@ -1,0 +1,52 @@
+{
+    "name": "Tyto app for YunoHost",
+    "id": "tyto",
+    "packaging_format": 1,
+    "description": {
+        "en": "tyto is an extensible and customizable management and organisation tool"
+    },
+    "version": "3.0.4",
+    "url": "https://github.com/jh3y/tyto",
+    "license": "MIT",
+    "maintainer": {
+        "name": "Anmol Sharma",
+        "email": "anmol@datamol.org",
+        "url": "https://datamol.org"
+    },
+    "requirements": {
+        "yunohost": ">= 2.7.2"
+    },
+    "multi_instance": true,
+    "services": [
+        "nginx"
+    ],
+    "arguments": {
+        "install" : [
+            {
+                "name": "domain",
+                "type": "domain",
+                "ask": {
+                    "en": "Choose a domain name for Tyto"
+                },
+                "example": "example.com"
+            },
+            {
+                "name": "path",
+                "type": "path",
+                "ask": {
+                    "en": "Choose a path for Tyto"
+                },
+                "example": "/tyto",
+                "default": "/tyto"
+            },
+            {
+                "name": "is_public",
+                "type": "boolean",
+                "ask": {
+                    "en": "Is it a public application?"
+                },
+                "default": true
+            }
+        ]
+    }
+}
