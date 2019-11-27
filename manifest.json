@@ -3,8 +3,8 @@
     "id": "tyto",
     "packaging_format": 1,
     "description": {
-        "en": "tyto is an extensible and customizable management and organisation tool",
-        "fr": "tyto est un outil d'organisation et de gestion personalisable et extensible"
+        "en": "An simple, minilam electronic post-it board",
+        "fr": "Un tableau de post-it électroniques, simple et minimaliste"
     },
     "version": "3.0.4",
     "url": "https://github.com/jh3y/tyto",
