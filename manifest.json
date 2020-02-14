@@ -3,7 +3,7 @@
     "id": "tyto",
     "packaging_format": 1,
     "description": {
-        "en": "An simple, minilam electronic post-it board",
+        "en": "A simple, minimal electronic post-it board",
         "fr": "Un tableau de post-it électroniques, simple et minimaliste"
     },
     "version": "3.0.4",
