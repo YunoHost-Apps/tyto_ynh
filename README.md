@@ -1,6 +1,6 @@
 # Tyto for YunoHost ![alt tag](https://github.com/YunoHost-Apps/tyto_ynh/blob/master/68747470733a2f2f7261772e6769746875622e636f6d2f6a6833792f7479746f2f6d61737465722f7372632f696d672f7479746f2e706e67.png)
 
-[![Integration level](https://dash.yunohost.org/integration/tyto.svg)](https://ci-apps.yunohost.org/jenkins/job/tyto%20%28Community%29/lastBuild/consoleFull)  
+[![Integration level](https://dash.yunohost.org/integration/tyto.svg)](https://dash.yunohost.org/appci/app/tyto) ![](https://ci-apps.yunohost.org/ci/badges/tyto.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/tyto.maintain.svg)
 
 [![Install Tyto with YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=tyto)<br><br>
 =======
