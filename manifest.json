@@ -6,7 +6,7 @@
         "en": "A simple, minimal electronic post-it board",
         "fr": "Un tableau de post-it électroniques, simple et minimaliste"
     },
-    "version": "3.0.4",
+    "version": "3.0.4~ynh1",
     "url": "https://github.com/jh3y/tyto",
     "license": "MIT",
     "maintainer": {
