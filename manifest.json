@@ -15,7 +15,7 @@
         "url": "https://datamol.org"
     },
     "requirements": {
-        "yunohost": ">= 3.5"
+        "yunohost": ">= 4.2.4"
     },
     "multi_instance": true,
     "services": [
@@ -26,26 +26,17 @@
             {
                 "name": "domain",
                 "type": "domain",
-                "ask": {
-                    "en": "Choose a domain name for Tyto"
-                },
                 "example": "example.com"
             },
             {
                 "name": "path",
                 "type": "path",
-                "ask": {
-                    "en": "Choose a path for Tyto"
-                },
                 "example": "/tyto",
                 "default": "/tyto"
             },
             {
                 "name": "is_public",
                 "type": "boolean",
-                "ask": {
-                    "en": "Is it a public application?"
-                },
                 "default": true
             }
         ]
