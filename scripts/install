@@ -63,7 +63,7 @@ ynh_app_setting_set --app=$app --key=final_path --value=$final_path
 ynh_setup_source --dest_dir="$final_path"
 
 chmod 750 "$final_path"
-chmod -R o-rwx "$final_path"
+#chmod -R o-rwx "$final_path"
 chown -R $app: "$final_path"
 
 #=================================================
@@ -84,6 +84,7 @@ if [ $is_public -eq 1 ]
 then
 	ynh_permission_update --permission="main" --add="visitors"
 fi
+
 #=================================================
 # RELOAD NGINX
 #=================================================
