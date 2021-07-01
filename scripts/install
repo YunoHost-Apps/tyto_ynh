@@ -64,7 +64,7 @@ ynh_setup_source --dest_dir="$final_path"
 
 chmod 750 "$final_path"
 chmod -R o-rwx "$final_path"
-chown -R $app:www-data "$final_path"
+chown -R $app: "$final_path"
 
 #=================================================
 # NGINX CONFIGURATION
@@ -82,8 +82,6 @@ ynh_script_progression --message="Configuring permissions..."
 # Make app public if necessary
 if [ $is_public -eq 1 ]
 then
-	# Everyone can access the app.
-	# The "main" permission is automatically created before the install script.
 	ynh_permission_update --permission="main" --add="visitors"
 fi
 #=================================================
