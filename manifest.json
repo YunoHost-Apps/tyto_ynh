@@ -3,11 +3,18 @@
     "id": "tyto",
     "packaging_format": 1,
     "description": {
-        "en": "A simple, minimal electronic post-it board",
-        "fr": "Un tableau de post-it électroniques, simple et minimaliste"
+        "en": "Simple, minimal electronic post-it board",
+        "fr": "Tableau de post-it électroniques, simple et minimaliste"
     },
-    "version": "3.0.4~ynh1",
+    "version": "3.0.4~ynh2",
     "url": "https://github.com/jh3y/tyto",
+    "upstream": {
+        "license": "MIT",
+        "website": "https://jh3y.github.io/tyto/",
+        "demo": "https://jh3y.github.io/tyto/",
+        "userdoc": "https://yunohost.org/apps",
+        "code": "https://github.com/jh3y/tyto"
+    },
     "license": "MIT",
     "maintainer": {
         "name": "Anmol Sharma",
