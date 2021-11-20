@@ -1,6 +1,5 @@
-SOURCE_URL=https://github.com/jh3y/tyto/archive/057781327fcfbfed3cf43da0993c5f4a5816a078.zip
-SOURCE_SUM=cae63ac06dfe555e022fc231549eab0d7cd9d5e8a3235adeff4d5e5a793f134b
+SOURCE_URL=https://github.com/jh3y/tyto/archive/refs/tags/3.0.4.tar.gz
+SOURCE_SUM=12d59901d2c221bbbfbff95036c9c4023b4629cca5a63aa8750739a7b22f1ed8
 SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=zip
+SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
-SOURCE_FILENAME=
