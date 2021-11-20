@@ -15,7 +15,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 ## Overview
 
-Simple, minimal electronic post-it board
+tyto is an extensible and customizable management and organisation tool.
 
 **Shipped version:** 3.0.4~ynh2
 
