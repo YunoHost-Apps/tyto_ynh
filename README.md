@@ -28,7 +28,6 @@ Simple, minimal electronic post-it board
 ## Documentation and resources
 
 * Official app website: https://jh3y.github.io/tyto/
-* Official user documentation: https://yunohost.org/apps
 * Upstream app code repository: https://github.com/jh3y/tyto
 * YunoHost documentation for this app: https://yunohost.org/app_tyto
 * Report a bug: https://github.com/YunoHost-Apps/tyto_ynh/issues
