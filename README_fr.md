@@ -11,7 +11,7 @@ Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour
 
 ## Vue d'ensemble
 
-Tableau de post-it électroniques, simple et minimaliste
+tyto is an extensible and customizable management and organisation tool.
 
 **Version incluse :** 3.0.4~ynh2
 
@@ -24,7 +24,6 @@ Tableau de post-it électroniques, simple et minimaliste
 ## Documentations et ressources
 
 * Site officiel de l'app : https://jh3y.github.io/tyto/
-* Documentation officielle utilisateur : https://yunohost.org/apps
 * Dépôt de code officiel de l'app : https://github.com/jh3y/tyto
 * Documentation YunoHost pour cette app : https://yunohost.org/app_tyto
 * Signaler un bug : https://github.com/YunoHost-Apps/tyto_ynh/issues
