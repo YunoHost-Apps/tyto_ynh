@@ -44,8 +44,8 @@ ram.runtime = "50M"
 
 [resources]
         [resources.sources.main]
-        url = "https://github.com/jh3y/tyto/archive/ba42f1fd77c8ba047943f3b343b67942faa4d01e.zip"
-        sha256 = "5e0efcb614184b3b21e1002688eaeefcf2af95f821861bdc5c16e0c95ae8b457"
+        url = "https://github.com/jh3y/tyto/archive/057781327fcfbfed3cf43da0993c5f4a5816a078.zip"
+        sha256 = "cae63ac06dfe555e022fc231549eab0d7cd9d5e8a3235adeff4d5e5a793f134b"
 
     [resources.system_user]
 
