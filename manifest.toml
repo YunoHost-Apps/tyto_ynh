@@ -1,0 +1,55 @@
+packaging_format = 2
+
+id = "tyto"
+name = "Tyto"
+description.en = "Simple, minimal electronic post-it board"
+description.fr = "Tableau de post-it électroniques, simple et minimaliste"
+
+version = "3.0.4~ynh2"
+
+maintainers = []
+
+[upstream]
+license = "MIT"
+website = "https://jh3y.github.io/tyto/"
+demo = "https://jh3y.github.io/tyto/"
+code = "https://github.com/jh3y/tyto"
+
+[integration]
+yunohost = ">= 11.2"
+architectures = "all"
+multi_instance = true
+
+ldap = false
+
+sso = false
+
+disk = "50M"
+ram.build = "50M"
+ram.runtime = "50M"
+
+[install]
+    [install.domain]
+    type = "domain"
+
+    [install.path]
+    type = "path"
+    default = "/tyto"
+
+    [install.init_main_permission]
+    help.en = "If enabled, Tyto will be accessible by people who do not have an account. This can be changed later via the webadmin."
+    help.fr = "Si cette case est cochée, Tyto sera accessible aux personnes n’ayant pas de compte. Vous pourrez changer ceci plus tard via la webadmin."
+    type = "group"
+    default = "visitors"
+
+[resources]
+        [resources.sources.main]
+        url = "https://github.com/jh3y/tyto/archive/057781327fcfbfed3cf43da0993c5f4a5816a078.zip"
+        sha256 = "cae63ac06dfe555e022fc231549eab0d7cd9d5e8a3235adeff4d5e5a793f134b"
+
+    [resources.system_user]
+
+    [resources.install_dir]
+
+    [resources.permissions]
+    main.url = "/"

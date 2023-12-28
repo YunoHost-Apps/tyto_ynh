@@ -16,7 +16,7 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 ## Vue d’ensemble
 
-tyto is an extensible and customizable management and organisation tool.
+Tyto is an extensible and customizable management and organisation tool.
 
 **Version incluse :** 3.0.4~ynh2
 
