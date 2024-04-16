@@ -5,7 +5,7 @@ name = "Tyto"
 description.en = "Simple, minimal electronic post-it board"
 description.fr = "Tableau de post-it électroniques, simple et minimaliste"
 
-version = "3.0.4~ynh2"
+version = "3.0.4~ynh3"
 
 maintainers = []
 
