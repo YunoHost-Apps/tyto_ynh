@@ -18,7 +18,7 @@ Il NE doit PAS être modifié à la main.
 
 Tyto is an extensible and customizable management and organisation tool.
 
-**Version incluse :** 3.0.4~ynh2
+**Version incluse :** 3.0.4~ynh3
 
 **Démo :** <https://jh3y.github.io/tyto/>
 

@@ -9,7 +9,7 @@ It shall NOT be edited by hand.
 
 [![Install Tyto with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=tyto)
 
-*[Read this README is other languages.](./ALL_README.md)*
+*[Read this README in other languages.](./ALL_README.md)*
 
 > *This package allows you to install Tyto quickly and simply on a YunoHost server.*  
 > *If you don't have YunoHost, please consult [the guide](https://yunohost.org/install) to learn how to install it.*
@@ -18,7 +18,7 @@ It shall NOT be edited by hand.
 
 Tyto is an extensible and customizable management and organisation tool.
 
-**Shipped version:** 3.0.4~ynh2
+**Shipped version:** 3.0.4~ynh3
 
 **Demo:** <https://jh3y.github.io/tyto/>
 
