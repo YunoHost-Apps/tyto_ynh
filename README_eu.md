@@ -26,6 +26,10 @@ Tyto is an extensible and customizable management and organisation tool.
 
 ![Tyto(r)en pantaila-argazkia](./doc/screenshots/screenshot.png)
 
+## :red_circle: Ezaugarri zalantzagarriak
+
+- **Jatorrizko garapena utzita**: Software honek ez du arduradunik. Denborak aurrera egin ahala funtzionatzeari utziko dio, konpondu gabeko segurtasun arazoak izango ditu, etab.
+
 ## Dokumentazioa eta baliabideak
 
 - Aplikazioaren webgune ofiziala: <https://jh3y.github.io/tyto/>

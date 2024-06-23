@@ -26,6 +26,10 @@ Tyto is an extensible and customizable management and organisation tool.
 
 ![Screenshot of Tyto](./doc/screenshots/screenshot.png)
 
+## :red_circle: Antifeatures
+
+- **Upstream not maintained**: This software is not maintained anymore. Expect it to break down over time, be exposed to unfixed security breaches, etc.
+
 ## Documentation and resources
 
 - Official app website: <https://jh3y.github.io/tyto/>

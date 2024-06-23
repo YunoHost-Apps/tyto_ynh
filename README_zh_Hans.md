@@ -3,7 +3,7 @@
 请勿手动编辑。
 -->
 
-# YunoHost 的 Tyto
+# YunoHost 上的 Tyto
 
 [![集成程度](https://dash.yunohost.org/integration/tyto.svg)](https://dash.yunohost.org/appci/app/tyto) ![工作状态](https://ci-apps.yunohost.org/ci/badges/tyto.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/tyto.maintain.svg)
 
@@ -25,6 +25,10 @@ Tyto is an extensible and customizable management and organisation tool.
 ## 截图
 
 ![Tyto 的截图](./doc/screenshots/screenshot.png)
+
+## :red_circle: 负面特征
+
+- **Upstream not maintained**: This software is not maintained anymore. Expect it to break down over time, be exposed to unfixed security breaches, etc.
 
 ## 文档与资源
 
